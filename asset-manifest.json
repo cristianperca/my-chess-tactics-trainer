@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tactics-trainer/static/css/main.8bd2a986.chunk.css",
+    "main.js": "/tactics-trainer/static/js/main.5720d0d2.chunk.js",
+    "main.js.map": "/tactics-trainer/static/js/main.5720d0d2.chunk.js.map",
+    "runtime-main.js": "/tactics-trainer/static/js/runtime-main.dbf573c9.js",
+    "runtime-main.js.map": "/tactics-trainer/static/js/runtime-main.dbf573c9.js.map",
+    "static/js/2.7fb8e0cc.chunk.js": "/tactics-trainer/static/js/2.7fb8e0cc.chunk.js",
+    "static/js/2.7fb8e0cc.chunk.js.map": "/tactics-trainer/static/js/2.7fb8e0cc.chunk.js.map",
+    "static/js/3.a2bc4560.chunk.js": "/tactics-trainer/static/js/3.a2bc4560.chunk.js",
+    "static/js/3.a2bc4560.chunk.js.map": "/tactics-trainer/static/js/3.a2bc4560.chunk.js.map",
+    "index.html": "/tactics-trainer/index.html",
+    "static/css/main.8bd2a986.chunk.css.map": "/tactics-trainer/static/css/main.8bd2a986.chunk.css.map",
+    "static/js/2.7fb8e0cc.chunk.js.LICENSE.txt": "/tactics-trainer/static/js/2.7fb8e0cc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbf573c9.js",
+    "static/js/2.7fb8e0cc.chunk.js",
+    "static/css/main.8bd2a986.chunk.css",
+    "static/js/main.5720d0d2.chunk.js"
+  ]
+}
