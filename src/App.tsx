@@ -5,6 +5,8 @@ import TacticBoard from "./components/TacticBoard";
 import axios from "axios";
 import { getSideToPlayFromFen } from "./utils";
 
+const REACT_APP_CHESSBLUNDERS_API = "https://cors-everywhere-proxy.herokuapp.com/https://chessblunders.org/api/"
+
 function App() {
   const [tactics, setTactics] = useState<Tactic[]>([]);
   const [hint, setHint] = useState<
@@ -77,7 +79,8 @@ function App() {
 
 async function fetchTactic() {
   const res = await axios.post(
-    `${process.env.REACT_APP_CHESSBLUNDERS_API}/blunder/get`,
+    //`${process.env.REACT_APP_CHESSBLUNDERS_API}/blunder/get`,
+    `${REACT_APP_CHESSBLUNDERS_API}/blunder/get`,
     {
       type: "explore",
     }
